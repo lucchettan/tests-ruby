@@ -1,3 +1,14 @@
+
+Those excercises has been done in pair-programming 
+By Corentin Loison & Nicolas Lucchetta
+
+
+
+
+
+
+
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
